@@ -14,7 +14,7 @@ Uma interface PHP leve e independente para gerar imagens de IA de alta qualidade
 ---
 
 ### 🌐 Demonstração Online
-<a href="https://image-ai.testes.eu.org/" target="_blank">Acesse o link oficial de teste aqui</a>
+[Acesse o link oficial de teste aqui](https://image-ai.testes.eu.org/)
 
 ### 🖼️ Estilos Disponíveis
 
