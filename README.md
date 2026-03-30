@@ -1,14 +1,3 @@
-
-Perfeito, Samuel. Mil desculpas, vamos traduzir tudo para o português agora mesmo para que o repositório fique acessível para a sua comunidade.
-
-E respondendo à sua pergunta: **Sim, deve usar exatamente o último `index.php` que enviei**. Ele já está com a correção do *Session Locking* (essencial para não travar o servidor) e configurado para o endpoint moderno da Pollinations (compatível com OpenAI), que é muito mais estável.
-
-Aqui estão os arquivos atualizados:
-
----
-
-### 1. README.md (Versão em Português)
-
 ```markdown
 # 🎨 Pollin-Gen (Pollinations Studio)
 
