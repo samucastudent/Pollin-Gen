@@ -11,6 +11,34 @@ Uma interface PHP leve e independente para gerar imagens de IA de alta qualidade
 
 ---
 
+---
+
+### 🌐 Demonstração Online
+<a href="https://image-ai.testes.eu.org/" target="_blank">Acesse o link oficial de teste aqui</a>
+
+### 🖼️ Estilos Disponíveis
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/samucastudent/GitGallery@main/imagens/imagem-realista-teacher_1774889035.jpg" width="300px" alt="Imagem Realista"/><br/>
+        <b>Foto Realista</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/samucastudent/GitGallery@main/imagens/ilustracao-digital-teacher_1774889024.jpg" width="300px" alt="Ilustração Digital"/><br/>
+        <b>Ilustração Digital</b>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/samucastudent/GitGallery@main/imagens/cartoon-teacher_1774889047.jpg" width="300px" alt="Cartoon"/><br/>
+        <b>Estilo Cartoon</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🚀 Início Rápido (Servidor Web)
 
 1. Clone este repositório:
