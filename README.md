@@ -22,6 +22,16 @@ Uma interface PHP leve e independente para gerar imagens de IA de alta qualidade
 
 ---
 
+### 📂 Instalação Manual (Para todos os usuários)
+
+1. **Baixe o Projeto:** [Clique aqui para baixar o ZIP](https://github.com/samucastudent/Pollin-Gen/archive/refs/heads/main.zip).
+2. **Descompactar:** Extraia o arquivo no seu computador. Você verá uma pasta chamada `Pollin-Gen-main`.
+3. **Subir para o Servidor:**
+   * Entre na pasta descompactada.
+   * Envie o arquivo `index.php` para o seu servidor (via Gerenciador de Arquivos do cPanel ou FTP).
+   * Coloque-o dentro de uma pasta (ex: `/public_html/fotos-ia`).
+4. **Acesse:** Abra no seu navegador: `seusite.com.br/fotos-ia`
+
 ### 🐳 Instalação via Docker (Local)
 
 Se você deseja rodar o projeto localmente sem instalar PHP ou Apache na sua máquina:
