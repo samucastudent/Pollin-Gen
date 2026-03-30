@@ -1,4 +1,3 @@
-```markdown
 # 🎨 Pollin-Gen (Pollinations Studio)
 
 Uma interface PHP leve e independente para gerar imagens de IA de alta qualidade usando a infraestrutura da **Pollinations.ai**. 
@@ -11,10 +10,8 @@ Uma interface PHP leve e independente para gerar imagens de IA de alta qualidade
 
 ---
 
----
-
 ### 🌐 Demonstração Online
-[Acesse o link oficial de teste aqui](https://image-ai.testes.eu.org/)
+<a href="https://image-ai.testes.eu.org/" target="_blank">Acesse o link oficial de teste aqui</a>
 
 ### 🖼️ Estilos Disponíveis
 
